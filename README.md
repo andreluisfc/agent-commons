@@ -1,8 +1,8 @@
 # agent-commons
 
-**RFC / concept only.** Contributors donate a share of local compute so open-source maintainers can run coding agents on those machines.—like cloud coding agents, but on volunteer nodes.
+**RFC / concept only.** Contributors donate a share of local compute so open-source maintainers can run coding agents on those machines — like cloud coding agents, but on volunteer nodes.
 
-This repository is a design sketch, not an implementation. Feedback welcome via [Issues](https://github.com/andreluisfc/agent-commons/issues) or Discussions (if enabled).
+This repository is a design sketch, not an implementation. Feedback welcome via [Issues](https://github.com/andreluisfc/agent-commons/issues) or [Discussions](https://github.com/andreluisfc/agent-commons/discussions).
 
 ## Problem
 
@@ -95,7 +95,7 @@ If something closer already exists, please open an issue and point to it.
 2. What is hardest in practice: sandboxing, result verification, or the economics of "why donate"?
 3. Should discovery be a central registry, a DHT, or project-scoped invite links?
 4. How should a node prove it ran the claimed model / toolchain without leaking the host?
-5. What is the minimum viable first slice—tests only, or full "fix this issue" loops?
+5. What is the minimum viable first slice — tests only, or full "fix this issue" loops?
 
 ## Status
 
@@ -104,7 +104,7 @@ If something closer already exists, please open an issue and point to it.
 Comments, counterexamples, and prior-art pointers are welcome:
 
 - [Open an issue](https://github.com/andreluisfc/agent-commons/issues)
-- Or start a Discussion if the feature is enabled on this repo
+- [Start a Discussion](https://github.com/andreluisfc/agent-commons/discussions)
 
 ## License
 
